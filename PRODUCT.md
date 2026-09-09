@@ -3,7 +3,7 @@
 **SKU:** `dog-training-client-sequence`
 **Price:** $39 USD, USDC on Base
 **Who:** Independent dog trainer who already has booked clients or packages
-**Not:** A training curriculum, veterinary advice, behavior modification protocol, or fix-any-dog guarantee
+**Not:** A training curriculum, veterinary advice, behavior modification protocol, or "fix any dog" guarantee
 
 **Ops only.** This pack is messages, logs, and handoffs. It does not teach you how to train dogs.
 
@@ -29,10 +29,10 @@ Body: tx hash + Base explorer link + the wallet you sent from.
 
 ## What you are buying
 
-1. Client + dog ops card (access, package count, stop-contact).
-2. Session ops log (what you ran as facts, homework assigned — not a method manual).
-3. Message sequence: book confirm, T-24h, after-session, mid-package check-in, one lapsed nudge.
-4. No-show / cancel stub and incident facts stub (call, do not diagnose).
+1. Client + dog **ops card** (access, package count, stop-contact).
+2. **Session ops log** (what you ran as facts, homework assigned — not a method manual).
+3. **Message sequence**: book confirm, T-24h, after-session, mid-package check-in, one lapsed nudge.
+4. **No-show / cancel** stub and incident facts stub (call, do not diagnose).
 
 ## What this is not
 
@@ -120,7 +120,7 @@ STOP. Wrong number. After hours. No active agreement. Active incident — call f
 
 ## Honest limits
 
-No guarantee the dog graduates. This is ops hygiene. Count sessions kept and packages finished yourself.
+No guarantee the dog "graduates." This is ops hygiene. Count sessions kept and packages finished yourself.
 
 ## Fictional example
 
